@@ -1,4 +1,4 @@
-# Aprofundamento em Vue.js 3
+# Conhecendo Método Ágil "Scrum"
 
 Estudando um pouco sobre o conceito de Scrum.
 
