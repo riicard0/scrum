@@ -1,0 +1,171 @@
+1. Introdução:
+
+  Fonte (YouTube) -> Curso de Scrum (minutoagil):
+
+	https://youtube.com/playlist?list=PLRj4UESgCLz1uwaFje483eV8hQiBguW-P
+
+  O "Scrum" basicamente é um framework de execução e planejamento de entrega de produtos e serviços de 
+  forma iterativa e incremental, ou seja, entregas fatiadas.
+
+  Entregas fatiadas são pequenas entregas no espaço de duas a quatro semanas, no qual o cliente vai 
+  validando junto de você, que são chamadas de "sprints".
+
+Passo a passo de como acontece:
+
+  1. *Ideia*			ideia que o cliente tem;
+
+  2. *User Story*		o P.O (Product Owner) cria a história de usuário;
+
+  3. *Contrução Backlog*	o P.O. constrói o "Backlog";
+
+  4. *Sprint Planning*		cerimônia de "sprint planning";
+
+  5. *Sprint Backlog*		
+
+  6. *Daily*			Reuniões diárias, com timebox de 15 minutos;
+
+  7. *Review*			
+
+  8. *Retrô*
+
+  Adiante, essas técnicas serão melhor explicadas.
+
+----------------------------------------------------------------------------------
+
+Temos os pilares do Scrum:
+
+  Os pilares do Scrum, para ficar fácil lembrar, é a famosa TIA do Scrum:
+
+	Transparência
+	Inspeção
+	Adaptação
+
+  Ou seja, sempre sermos transparentes com os processos que estão acontecendo, sempre fazendo inspeções 
+  para verificar se está tudo correndo certo e adaptação o tempo todo para sempre conseguirmos agir de 
+  acordo com o desenrolar do projeto.
+
+----------------------------------------------------------------------------------
+
+O framework num todo seria:
+
+
+	Product Backlog > 
+
+	Sprint Planning > Sprint Backlog > 1 Scrum Team > Daily Scrum > Sprint Review > Increment > 
+
+	Sprint Retrospective
+
+
+  Explicação:
+
+  Temos o "Product Backlog", o cliente irá gerar os PBIs (Product Backlog Item), que seria uma lista do 
+  que precisa ser feito para esse novo produto ser construído, podemos comparar com o "Briefing".
+
+  Temos a "Sprint Planning" que seria uma reunião/cerimônia para que possamos apresentar para o time o 
+  Backlog do PO (Product Owner = dono do produto/cliente).
+
+  Temos o "Sprint Backlog" que seria um pedaço que o time pega do próprio Backlog.
+
+  "1 Scrum Team" seria o time trabalhando, tendo a "Daily" todos os dias acontecendo.
+
+  Temos a "Sprint Review" depois de duas a quatro semanas depois de iniciado o projeto, ou seja, um 
+  revisão para saber se está tudo certo.
+
+  Se precisar fazer "Increment" (incrementos) serão feitos incrementos no projeto, se não precisar fazer 
+  incrementos é feita a "Sprint Retrospective".
+
+  A "Sprint Retrospective" é a retrostpectiva de tudo até o momento e a partir daqui virá um ciclo até 
+  o término do projeto, ou seja, depois dessa etapa voltamos para a "Sprint Planning" realizando agora 
+  uma nova etapa do projeto proposto em "Produto Backlog", um novo "Product Backlog Item".
+
+----------------------------------------------------------------------------------
+
+Observações:
+
+  O legal disso é que sabemos que temos um projeto grande, porém como são entregas fatiadas vamos 
+  realizando pedaço por pedaço do "bolo" até a construção completa dele.
+
+  Lembrando que ser ágil, não é ser rápido, e sim deixar o cliente o mais familiarizado possível do 
+  processo do projeto por meio das entregas fatiadas, que ao invés de ser entregue um bolo inteiro, é 
+  entregue por pedaços. Então, o cliente junto do time vai percebendo se aquilo é realmente o que ele 
+  quer ou não.
+
+----------------------------------------------------------------------------------
+
+Fazer fatiado:
+
+  Fazer fatiado não significa fazer entregas sem valor. Fazer fatiado por exemplo seria como se o projeto 
+  final fosse um carro, porém ao longo do processo vamos entregando em formas de fatias:
+
+	Skate
+	Patinete
+	Bicicleta
+	Moto
+	Carro
+
+  Ou seja, fazer entregas fatiadas de algo que ele já saia utilizando.
+
+----------------------------------------------------------------------------------
+
+Resumo dos Processos do Scrum:
+
+	Plan
+	Do
+	Check
+	Act
+
+  "Plan" é o planejamento (Product Backlog / Sprint Planning / Sprint Backlog);
+
+  "Do" é a execução (1 Scrum Team / Daily Scrum / Increment);
+
+  "Check" é a Revisão (Sprint Review);
+
+  "Act" é a retrospectiva (Sprint Retrospective);
+
+============================================================================================================
+
+2. Papéis, Artefatos e Cerimônias do Scrum:
+
+  "Papéis" diz quem são os integrantes/pessoas:
+
+	Product Owner		-	PO (Cliente)
+	Scrum Master		-	Responsável do time
+	Team			-	Time de desenvolvimento (Front-End / Back-End / UX / etc)
+
+  "Cerimônias" são as reuniões:
+
+	Sprint Planning		-	Planejamento da Sprint
+	Daily			-	Reunião Diária
+	Sprint Review		-	Revisão da Sprint
+	Sprint Retrospective	-	Retrospectiva da Sprint
+
+  "Artefatos" são as informações sobre o projeto:
+
+	Product Backlog
+	Sprint Backlog
+	Gráfico Burndown
+
+----------------------------------------------------------------------------------
+
+5 valores do Scrum Team:
+
+	"Coragem" 		para fazer
+	"Foco" 			no projeto
+	"Comprometimento" 	com o prometido
+	"Respeito" 		com os demais
+	"Abertura" 		para falar e para ouvir
+
+----------------------------------------------------------------------------------
+
+Daily:
+
+  A "Daily" é feita em 15 minutos e cada um do time falará:
+
+	O que eu fiz ontem
+	O que eu fiz hoje
+	Eu vejo algum obstáculo
+
+  Ela serve para cada integrante do time expor os seus problemas ali.
+
+============================================================================================================
+
